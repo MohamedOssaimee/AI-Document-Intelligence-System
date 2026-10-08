@@ -216,24 +216,6 @@ streamlit run app.py
 
 ---
 
-## 📸 Demo
-
-Add screenshots or a short demonstration video of the Streamlit application here.
-
-Example:
-
-```text
-docs/
-├── screenshots/
-│   ├── qa.png
-│   ├── summary.png
-│   ├── analysis.png
-│   └── comparison.png
-└── demo.gif
-```
-
----
-
 ## 📈 Results
 
 The project demonstrates an end-to-end document intelligence workflow combining:
